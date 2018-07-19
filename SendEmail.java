@@ -7,7 +7,7 @@ public class SendEmail
 {
 	public static void main(String[] args)
 	{
-		String to = "robobyme01@gmail.com";
+		String to = "adityachabuku@gmail.com";
 		String from = "ouroffice143@gmail.com";
 		
 		Properties properties = new Properties();
